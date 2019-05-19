@@ -1,2 +1,2 @@
 
-# [](https://jeffkko.github.io/blog/#/posts/10)
+# (https://jeffkko.github.io/blog/#/posts/10)
